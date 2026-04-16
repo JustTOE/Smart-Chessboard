@@ -1,5 +1,10 @@
 # Smart Chess Board - Bitboard Implementation Documentation
 
+[board](boardupdate1.webp)
+[board2](boardupdate2.webp)
+[pieces](piecesandboard.webp)
+[multiplexers](multiplexerupdate.webp)
+
 ## Overview
 
 This Rust embedded application implements a smart chess board using an ESP32 microcontroller with Hall effect sensors to detect piece movements. The core chess logic uses **bitboards** - a highly efficient data structure for representing chess positions using 64-bit integers.
